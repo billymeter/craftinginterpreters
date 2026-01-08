@@ -1,0 +1,9 @@
+var continue = true;
+var i = 1;
+while(continue) {
+    print i;
+    i = i + 1;
+    if (i > 10) {
+        continue = false;
+      }
+  }
