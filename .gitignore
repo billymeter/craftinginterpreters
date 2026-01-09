@@ -1,3 +1,5 @@
 *.class
 *.o
 clox/src/clox
+clox/src/build
+*.d
