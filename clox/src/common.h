@@ -6,6 +6,7 @@
 #include <stdint.h>
 
 // These are defined in the debug build of the Makefile
+#define NAN_BOXING
 // #define DEBUG_PRINT_CODE
 // #define DEBUG_TRACE_EXECUTION
 
